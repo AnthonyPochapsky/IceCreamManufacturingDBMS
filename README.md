@@ -1,2 +1,2 @@
 # IceCreamManufacturingDBMS
-A Report illustrating the steps taken to design a ice cream manufacturing relational database and an accompanying DBMS for user interaction
+A Report illustrating the steps I and two other teammates have taken to design an ice cream manufacturing relational database and accompanying DBMS for a university project.
